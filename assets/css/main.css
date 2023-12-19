@@ -138,6 +138,11 @@ input, select, textarea {
 
 		}
 
+  #note {
+    text-align: left;
+    margin-left: 5%;
+  }
+
 	body {
 		background-color: #fff;
 		color: #aaa;
@@ -1360,3 +1365,5 @@ input, select, textarea {
 				}
 
 		}
+
+  
